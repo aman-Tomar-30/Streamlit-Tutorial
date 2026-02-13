@@ -10,6 +10,7 @@ with col2:
     st.header("Then")
     st.write("A curious child who loved to explore the world around him.")
     st.image("https://cdn2.geckoandfly.com/wp-content/uploads/2017/08/thomas-edison-quote-02.jpg")
+    st.multiselect("What do you think about Thomas Edison?", options=["Genius", "Inventor", "Entrepreneur", "Inspirational"])
     
 name = st.sidebar.text_input("Enter your Name:")
 if name:
