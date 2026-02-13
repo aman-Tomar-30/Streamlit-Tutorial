@@ -1,0 +1,18 @@
+Streamlit is an open-source Python library that enables data scientists, analysts, and developers to build interactive, data-rich web applications quickly and easily—without needing to know HTML, CSS, or JavaScript
+It composed of declerative Python Code.
+
+Key Features:
+1.Python-centric: Write apps using pure Python scripts, with no need for front-end web development. 
+2.Interactive Widgets: Built-in components like sliders, buttons, dropdowns, and file uploaders allow real-time user interaction. 
+3.Real-time Updates: Apps automatically refresh as users adjust inputs, enabling instant feedback. 
+4.Seamless Data Visualization: Integrates effortlessly with popular libraries like Matplotlib, Plotly, Seaborn, and Pandas for dynamic charts and plots. 
+5.Rapid Prototyping: Designed for fast development—turn a data script into a shareable web app in minutes. 
+
+Best Use Cases:
+1.Building data dashboards to monitor KPIs. 
+2.Sharing machine learning models via interactive interfaces. 
+3.Creating tools for exploratory data analysis (EDA). 
+4.Visualizing geospatial data using integrations like Folium or Pydeck
+
+Install -> pip install streamlit   
+Run app.py -> streamlit run app.py   
